@@ -153,5 +153,5 @@ end
 
 def team_names
   teams = []
-  game_hash
+  game_hash.
 end
