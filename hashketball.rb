@@ -121,7 +121,7 @@ end
 def num_points_scored (players_name)
   player = ""
  game_hash.each do |location, team_data|
-    if team_data[:players][players_name]
+    if team_data[:players][players_name] == nil 
     
   end
 end
