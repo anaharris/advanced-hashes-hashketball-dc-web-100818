@@ -165,6 +165,8 @@ def player_numbers (team)
   game_hash.each do |location, team_data|
     if team_data[:team_name] == team
       team_data[:players].each do |player, info|
+        
+      end
     end
   end
 end
