@@ -192,5 +192,5 @@ def big_shoe_rebounds
       if info[:shoe] > biggest_shoe
         biggest_shoe = infor[:shoe]
         player_shoe = name
-  
+  end
 end
