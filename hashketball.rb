@@ -138,3 +138,5 @@ def shoe_size (players_name)
   end
   return player[:shoe]
 end
+
+def player_numbers (players_name)
