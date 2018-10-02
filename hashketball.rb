@@ -118,15 +118,12 @@ def game_hash
 end 
 
 
-#def num_points_scored (players_name)
- # game_hash.each do |team, attributes|
-  #  attributes.each do |attribute, value|
-   #   if value == players_name
-    #    return value.values
-     # end
-    #end
-  #end
-#end
+def num_points_scored (players_name)
+ game_hash.each do |team, attributes|
+  
+    end
+  end
+end
 
 
 
@@ -137,8 +134,6 @@ def good_practices
          binding.pry
         #are you ABSOLUTELY SURE what 'attribute' and 'team data' are? use binding.pry to find out!
       #what is 'data' at each loop through out .each block? when will the following line of code work and when will it break?
-        data.each do |data_value|
-            binding.pry
       end
     end
   end
