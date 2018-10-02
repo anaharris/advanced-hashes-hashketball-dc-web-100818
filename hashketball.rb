@@ -143,7 +143,7 @@ end
 def team_colors (name_team)
   team = ""
   game_hash.each do |location, team_data|
-    if team_data[team_name] = team_name
+    if team_data[team_name] = name_team
       team = team_data
     end
   end
