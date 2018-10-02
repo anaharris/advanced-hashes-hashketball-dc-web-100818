@@ -153,5 +153,5 @@ end
 
 def team_names
   teams = []
-  game_hash.each do 
+  game_hash.each do |location, team_data|
 end
