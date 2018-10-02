@@ -152,5 +152,5 @@ end
 
 
 def team_names
-  
+  teams = []
 end
