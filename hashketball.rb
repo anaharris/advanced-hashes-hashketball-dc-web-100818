@@ -123,6 +123,7 @@ def num_points_scored (players_name)
   game_hash.each do |location, team_data|
     if team_data[:players][players_name] != nil
       
+    end
   end
 end
 
