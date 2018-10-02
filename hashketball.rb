@@ -142,5 +142,5 @@ end
 
 def team_colors (team_name)
   team = ""
-  
+  game_hash.each do 
 end
