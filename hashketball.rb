@@ -191,6 +191,6 @@ def big_shoe_rebounds
     team_data[:players].each do |name, info|
       if info[:shoe] > biggest_shoe
         biggest_shoe = infor[:shoe]
-        player_shoe = 
+        player_shoe = name
   
 end
