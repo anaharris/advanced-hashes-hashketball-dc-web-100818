@@ -185,5 +185,8 @@ end
 
 
 def big_shoe_rebounds 
+  player_shoe = ""
+  biggest_shoe = 1 
+  
   
 end
