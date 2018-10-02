@@ -128,5 +128,3 @@ def num_points_scored (players_name)
   return player[:points]
 end
 
- num_points_scored("Ben Gordon")
-
