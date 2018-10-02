@@ -125,6 +125,7 @@ def num_points_scored (players_name)
       player = team_data[:player][players_name]
     end
   end
+  
 end
 
  num_points_scored("Ben Gordon")
