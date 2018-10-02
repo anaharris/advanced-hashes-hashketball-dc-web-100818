@@ -146,5 +146,5 @@ def player_numbers (players_name)
       player = team_data[:players][players_name]
     end
   end
-  return player[:]
+  return player[:number]
 end
