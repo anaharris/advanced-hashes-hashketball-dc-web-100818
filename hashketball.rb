@@ -147,4 +147,5 @@ def team_colors (team_name)
       team = team_data
     end
   end
+  return 
 end
